@@ -1,9 +1,9 @@
 === WP to Buffer: USP Connector ===
 Contributors: n7studios,wpcube
 Donate link: http://www.wpcube.co.uk/plugins/wordpress-to-buffer-pro
-Tags: wpcube, framework
+Tags: wp-to-buffer,buffer,usp
 Requires at least: 3.6
-Tested up to: 4.0
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
